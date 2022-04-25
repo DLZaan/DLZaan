@@ -1,6 +1,6 @@
 ### Hi, I’m Miłosz
 
-On a daily basis, I work on Anaplan's Connected Planning implementations in large and medium-sized companies. My programming skills, from Python, through Java, C#, C++,  C, to VBA and Assembly languages), help me in the area of Data Integration, in which I specialize.
+On a daily basis, I work on Anaplan's Connected Planning implementations for large and medium-sized companies. My programming skills, from Python and Java, through C#, C++ & C, to VBA and Assembly languages, help me in the area of Data Integration, in which I specialize.
 
 You can find more about me on:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/milosz-kierepka)
